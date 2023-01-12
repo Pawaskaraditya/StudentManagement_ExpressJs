@@ -1,2 +1,2 @@
 # StudentManagement_ExpressJs
-An ExpressJs sample application for student management using MySql as database.
+A Student Sample Management Portal implemented with the help of NodeJS and ExpressJs framework, using MySQL Connectivity
